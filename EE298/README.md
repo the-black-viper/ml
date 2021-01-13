@@ -2,7 +2,7 @@
 # PCA-GMM on STL10 Dataset
 
 ## Notes
-Due to the slow download of the dataset from external libraries, the dataset was downloaded from source and loaded manually. The program will potentially produce and error 
+Due to the slow download of the dataset from external libraries, the dataset was downloaded from source and loaded manually. The program will potentially produce an error if local files are not found.
 
 
 ## Instructions
